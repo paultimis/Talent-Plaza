@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/talent-plaza/static/css/main.31287517.css",
-    "main.js": "/talent-plaza/static/js/main.65ff17cf.js",
+    "main.css": "/talent-plaza/static/css/main.bdd10422.css",
+    "main.js": "/talent-plaza/static/js/main.044f52ff.js",
     "static/js/787.d17df78b.chunk.js": "/talent-plaza/static/js/787.d17df78b.chunk.js",
     "static/media/p1.jpg": "/talent-plaza/static/media/p1.c5c3c6776d9b5ffd6c16.jpg",
     "static/media/p2.jpg": "/talent-plaza/static/media/p2.33960e8ccbbab8cfbbbf.jpg",
@@ -9,12 +9,12 @@
     "static/media/p5.jpg": "/talent-plaza/static/media/p5.db25e5585eb537043139.jpg",
     "static/media/p3.jpg": "/talent-plaza/static/media/p3.71e4ccc44b13788fce1f.jpg",
     "index.html": "/talent-plaza/index.html",
-    "main.31287517.css.map": "/talent-plaza/static/css/main.31287517.css.map",
-    "main.65ff17cf.js.map": "/talent-plaza/static/js/main.65ff17cf.js.map",
+    "main.bdd10422.css.map": "/talent-plaza/static/css/main.bdd10422.css.map",
+    "main.044f52ff.js.map": "/talent-plaza/static/js/main.044f52ff.js.map",
     "787.d17df78b.chunk.js.map": "/talent-plaza/static/js/787.d17df78b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31287517.css",
-    "static/js/main.65ff17cf.js"
+    "static/css/main.bdd10422.css",
+    "static/js/main.044f52ff.js"
   ]
 }
